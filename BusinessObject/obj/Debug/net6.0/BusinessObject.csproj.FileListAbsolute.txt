@@ -1,0 +1,15 @@
+F:\fpt\PRN211\l2\it\FStore-PRN211-Fall2022-main\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+F:\fpt\PRN211\l2\it\FStore-PRN211-Fall2022-main\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+F:\fpt\PRN211\l2\it\FStore-PRN211-Fall2022-main\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+F:\fpt\PRN211\l2\it\FStore-PRN211-Fall2022-main\BusinessObject\bin\Debug\net6.0\DataAccess.dll
+F:\fpt\PRN211\l2\it\FStore-PRN211-Fall2022-main\BusinessObject\bin\Debug\net6.0\DataAccess.pdb
+F:\fpt\PRN211\l2\it\FStore-PRN211-Fall2022-main\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+F:\fpt\PRN211\l2\it\FStore-PRN211-Fall2022-main\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+F:\fpt\PRN211\l2\it\FStore-PRN211-Fall2022-main\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+F:\fpt\PRN211\l2\it\FStore-PRN211-Fall2022-main\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+F:\fpt\PRN211\l2\it\FStore-PRN211-Fall2022-main\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+F:\fpt\PRN211\l2\it\FStore-PRN211-Fall2022-main\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CopyComplete
+F:\fpt\PRN211\l2\it\FStore-PRN211-Fall2022-main\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+F:\fpt\PRN211\l2\it\FStore-PRN211-Fall2022-main\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+F:\fpt\PRN211\l2\it\FStore-PRN211-Fall2022-main\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+F:\fpt\PRN211\l2\it\FStore-PRN211-Fall2022-main\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll

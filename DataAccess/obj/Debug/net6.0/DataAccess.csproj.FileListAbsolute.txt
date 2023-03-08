@@ -1,0 +1,14 @@
+F:\fpt\PRN211\l2\it\FStore-PRN211-Fall2022-main\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+F:\fpt\PRN211\l2\it\FStore-PRN211-Fall2022-main\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+F:\fpt\PRN211\l2\it\FStore-PRN211-Fall2022-main\DataAccess\bin\Debug\net6.0\DataAccess.dll
+F:\fpt\PRN211\l2\it\FStore-PRN211-Fall2022-main\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+F:\fpt\PRN211\l2\it\FStore-PRN211-Fall2022-main\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+F:\fpt\PRN211\l2\it\FStore-PRN211-Fall2022-main\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\fpt\PRN211\l2\it\FStore-PRN211-Fall2022-main\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+F:\fpt\PRN211\l2\it\FStore-PRN211-Fall2022-main\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+F:\fpt\PRN211\l2\it\FStore-PRN211-Fall2022-main\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+F:\fpt\PRN211\l2\it\FStore-PRN211-Fall2022-main\DataAccess\obj\Debug\net6.0\DataAccess.dll
+F:\fpt\PRN211\l2\it\FStore-PRN211-Fall2022-main\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+F:\fpt\PRN211\l2\it\FStore-PRN211-Fall2022-main\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+F:\fpt\PRN211\l2\it\FStore-PRN211-Fall2022-main\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+F:\fpt\PRN211\l2\it\FStore-PRN211-Fall2022-main\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
